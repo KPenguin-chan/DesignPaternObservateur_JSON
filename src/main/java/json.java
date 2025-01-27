@@ -6,6 +6,11 @@ import java.io.IOException;
 
 public class json {
 
+    /**
+     * Lis un fichier JSON et le transforme en liste
+     * @param fileName
+     * @return une liste contenant les information contenues dans le fichier JSON en paramètre
+     */
     public static JSONArray lecture (String fileName){
         JSONParser jsonParser = new JSONParser();
 
