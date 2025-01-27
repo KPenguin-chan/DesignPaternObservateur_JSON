@@ -1,8 +1,17 @@
 import java.util.ArrayList;
 
 public class Categorie implements Observateur {
+    /**
+     * nom de la catégorie
+     */
     private final String nom;
+    /**
+     * Liste des Abandons de la course
+     */
     private ArrayList<Abandon> listeAbandon;
+    /**
+     * Taille de la liste listeAbandon
+     */
     private int tailleListe;
 
     /**
@@ -16,10 +25,18 @@ public class Categorie implements Observateur {
         tailleListe = 0;
     }
 
+    /**
+     * Accede au nom de la catégorie
+     * @return valeur du nom de la catégorie
+     */
     public String getNom() {
         return nom;
     }
 
+    /**
+     * Accede à la taille de la liste
+     * @return valeur de la taille de listeAbandon
+     */
     public int getTailleListe() {
         return tailleListe;
     }
@@ -38,7 +55,11 @@ public class Categorie implements Observateur {
             tailleListe++;
         }
     }
-
+    /**
+     * Conversion de l'objet en chaine de caracteres.
+     *
+     * @return l'objet sous forme de chaine de caractère
+     */
     public String toString() {
         String txtListe = "";
         for (Abandon abandon : listeAbandon) {
