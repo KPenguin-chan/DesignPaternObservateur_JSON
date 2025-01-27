@@ -15,8 +15,8 @@ public class Categorie implements Observateur {
     private int tailleListe;
 
     /**
-     *Il s'agit de la méthode de constrution de la classe Catégorie.
-     *Elle prend en paramètre nom (le nom de la catégorie) et créée avec un objet Categorie
+     *Construit l'objet de type Categorie avec un
+     * etat predefini.
      * @param nom
      */
     public Categorie(String nom) {
