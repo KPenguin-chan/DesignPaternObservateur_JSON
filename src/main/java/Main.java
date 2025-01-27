@@ -4,6 +4,10 @@ import org.json.simple.JSONObject;
 import java.util.HashSet;
 
 public class Main {
+    /**
+     * Creer different objets et teste la fonctionnalité de ces objets en utilisant leur méthode
+     * @param args
+     */
     public static void main(String[] args) {
         HashSet<Abandon> lesAbandons = new HashSet<>();
         /*
