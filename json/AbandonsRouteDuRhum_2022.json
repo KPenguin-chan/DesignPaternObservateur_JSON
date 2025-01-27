@@ -1,0 +1,147 @@
+[
+  { "voilier" : "Nexans - Art et Fenetres",
+    "skipper" : "Fabrice AMEDEO" ,
+    "classe" : "IMOCA"
+  },
+  { "voilier" : "LEYTON",
+    "skipper" : "Sam GOODCHILD" ,
+    "classe" : "OCEAN_FIFTY"
+  },
+  { "voilier" : "Bella Donna - Race For Pure Ocean",
+    "skipper" : "Fabio GENNARI" ,
+    "classe" : "Rhum_Mono"
+  },
+  { "voilier" : "RAYON VERT",
+    "skipper" : "Oren NATAF" ,
+    "classe" : "Rhum_Multi"
+  },
+  { "voilier" : "CMA Ile-de-france  60 000 Rebonds",
+    "skipper" : "Brieuc MAISONNEUVE" ,
+    "classe" : "Rhum_Multi"
+  },
+  { "voilier" : "Solidaires En Peloton - ARSEP",
+    "skipper" : "Thibaut VAUCHEL-CAMUS" ,
+    "classe" : "OCEAN_FIFTY"
+  },
+  { "voilier" : "Interaction",
+    "skipper" : "Erwan THIBOUMERY" ,
+    "classe" : "Rhum_Multi"
+  },
+  { "voilier" : "Jess",
+    "skipper" : "Gilles BUEKENHOUT" ,
+    "classe" : "Rhum_Multi"
+  },
+  { "voilier" : "Inter Invest",
+  "skipper" : "Matthieu PERRAUT" ,
+  "classe" : "Class40"
+},
+  { "voilier" : "Centrakor",
+    "skipper" : "Mikael MERGUI" ,
+    "classe" : "Class40"
+  },
+  { "voilier" : "ACI",
+    "skipper" : "Ivica KOSTELIC" ,
+    "classe" : "Class40"
+  },
+  { "voilier" : "La Boulangere Bio",
+    "skipper" : "Amelie GRASSI" ,
+    "classe" : "Class40"
+  },
+  { "voilier" : "CONSCIOUS PLANET",
+    "skipper" : "Donald ALEXANDER" ,
+    "classe" : "Class40"
+  },
+  { "voilier" : "A l’Aveugle - Trim Control",
+    "skipper" : "François JAMBOU" ,
+    "classe" : "Class40"
+  },
+
+
+
+  { "voilier" : "GLACES ROMANE",
+    "skipper" : "Laurent CAMPRUBI" ,
+    "classe" : "Class40"
+  },
+
+  { "voilier" : "Eora",
+    "skipper" : "Henry RUPERT" ,
+    "classe" : "Class40"
+  },
+
+  { "voilier" : "FULLSAVE",
+    "skipper" : "Jean-Pierre BALMES" ,
+    "classe" : "Class40"
+  },
+
+  { "voilier" : "Bateau Cite Hotel - Region Guadeloupe",
+    "skipper" : "Sacha DAUNAR" ,
+    "classe" : "Class40"
+  },
+
+  { "voilier" : "Fortissimo",
+    "skipper" : "Geoffrey MATACZYNSKI" ,
+    "classe" : "Class40"
+  },
+
+  { "voilier" : "Randstad Ausy",
+    "skipper" : "Martin LOUCHART" ,
+    "classe" : "Class40"
+  },
+
+  { "voilier" : "E.leclerc Ville-la-Grand",
+    "skipper" : "Antoine MAGRE" ,
+    "classe" : "Class40"
+  },
+
+  { "voilier" : "Viranga",
+    "skipper" : "Emmanuel HAMEZ" ,
+    "classe" : "Class40"
+  },
+  { "voilier" : "Faiaoahe",
+    "skipper" : "Remy GERIN" ,
+    "classe" : "Rhum_Mono"
+  },
+  { "voilier" : "Terranimo",
+    "skipper" : "Guy PRONIER" ,
+    "classe" : "Rhum_Mono"
+  },
+
+  { "voilier" : "GROUPE APICIL",
+    "skipper" : "Damien SEGUIN" ,
+    "classe" : "IMOCA"
+  },
+  { "voilier" : "Bureau Vallee",
+    "skipper" : "Louis BURTON" ,
+    "classe" : "IMOCA"
+  },
+  { "voilier" : "Volvo",
+    "skipper" : "Jonas GERCKENS" ,
+    "classe" : "Class40"
+  },
+  { "voilier" : "EDIGO - UNIVERRE",
+    "skipper" : "Yves COURBON" ,
+    "classe" : "Class40"
+  },
+  
+  { "voilier" : "SERENIS Consulting",
+    "skipper" : "Jean GALFIONE" ,
+    "classe" : "Class40"
+  },
+  { "voilier" : "Crosscall",
+    "skipper" : "Aurelien DUCROZ" ,
+    "classe" : "Class40"
+  },
+
+  { "voilier" : "DMG MORI Global One",
+    "skipper" : "Kojiro SHIRAISHI",
+    "classe" : "IMOCA"
+  },
+  { "voilier" : "Trilogik - Dys De Cœur",
+    "skipper" : "David DUCOSSON" ,
+    "classe" : "Rhum_Multi"
+  }
+]
+
+
+
+
