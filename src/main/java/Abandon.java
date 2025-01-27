@@ -3,6 +3,14 @@ public class Abandon {
     private final String classe;
     private final String skipper;
 
+    /**
+     * Il s'agit de la méthode de constrution de la classe Abandon.
+     * Elle prend en paramètre nom (le nom du voilier), classe(le nom de la Classe du voilier) et
+     * skipper(le nom du skipper). Avec ces paramètres elle créee un objet Abandon.
+     * @param nom
+     * @param classe
+     * @param skipper
+     */
     Abandon(String nom, String classe, String skipper) {
         this.nom = nom;
         this.classe = classe;
