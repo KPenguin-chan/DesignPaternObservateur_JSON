@@ -1,6 +1,15 @@
 public class Abandon {
+    /**
+     * nom du bateau du skipper qui a  abandonné
+     */
     private final String nom;
+    /**
+     * nom de la classe du skipper qui a abandonné
+     */
     private final String classe;
+    /**
+     * nom du skipper
+     */
     private final String skipper;
 
     /**
