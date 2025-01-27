@@ -4,9 +4,8 @@ public class Abandon {
     private final String skipper;
 
     /**
-     * Il s'agit de la méthode de constrution de la classe Abandon.
-     * Elle prend en paramètre nom (le nom du voilier), classe(le nom de la Classe du voilier) et
-     * skipper(le nom du skipper). Avec ces paramètres elle créee un objet Abandon.
+     *Construit l'objet de type Abandon avec un
+     * etat predefini.
      * @param nom
      * @param classe
      * @param skipper
@@ -17,18 +16,35 @@ public class Abandon {
         this.skipper = skipper;
     }
 
+    /**
+     * Accede au nom du bateau du skipper qui a abandonné
+     * @return valeur du nom du bateau qui a abandonné
+     */
     public String getNom() {
         return nom;
     }
 
+    /**
+     * Accede au nom de la classe du skipper qui a abandonné
+     * @return valeur du nom de la classe
+     */
     public String getClasse() {
         return classe;
     }
 
+    /**
+     * Accede au nom du skipper qui a abandonné
+     * @return valeur du nom du skipper
+     */
     public String getSkipper() {
         return skipper;
     }
 
+    /**
+     * Conversion de l'objet en chaine de caracteres.
+     *
+     * @return l'objet sous forme de chaine de caractère
+     */
     public String toString() {
         return "Nom: " + nom + ", Classe: " + classe + ", Skipper: " + skipper + "\n";
     }
